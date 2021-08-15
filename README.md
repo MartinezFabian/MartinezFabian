@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinezFabian
 - 💻 I’m interested in software development
-- 📚 I’m currently learning University Technical in Programming
+- 📚 I’m currently learning University Degree in Programming at UTN 
 - 📫 How to reach me FabianMartinezDev@gmail.com
 
 ## Skills:
